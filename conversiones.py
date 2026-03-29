@@ -3,5 +3,4 @@ edad=int(edad)
 
 nueva_edad= edad +1
 
-print("Tu nueva edades " +nueva_edad)
-
+print("Tu nueva edades " + str(nueva_edad))
