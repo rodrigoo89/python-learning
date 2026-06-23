@@ -23,3 +23,15 @@ while intentos > 0:
 
 if intentos == 0:
     print(f"Lo siento, {usuario}. Has agotado tus intentos. El número secreto era {numero_secreto}.")
+    
+    
+
+# while condicion_general:
+#     pedir_dato
+
+#     if caso_invalido:
+#         avisar_error
+#     elif otro_caso:
+#         hacer_algo
+#     else:
+#         hacer_otra_cosa
