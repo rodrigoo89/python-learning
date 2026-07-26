@@ -22,7 +22,7 @@ Ejercicios y proyectos del curso **"Python TOTAL - Programador Avanzado en 16 d�
 
 ## Sobre el proyecto del día 12
 
-Es el proyecto más completo del curso hasta el momento: una app de finanzas personales construida con Streamlit y pandas, con filtros por categoría y fecha, dashboard de métricas, gráficos, importación/exportación de CSV y persistencia de datos. Para verlo en detalle o ejecutarlo de forma independiente, hay una versión dedicada en [control-finanzas-streamlit](https://github.com/rodrigoo89/control-finanzas-streamlit) *(link a actualizar una vez creado el repo)*.
+Es el proyecto más completo del curso hasta el momento: una app de finanzas personales construida con Streamlit y pandas, con filtros por categoría y fecha, dashboard de métricas, gráficos, importación/exportación de CSV y persistencia de datos. Para verlo en detalle o ejecutarlo de forma independiente, hay una versión dedicada en [control-finanzas-streamlit](https://github.com/rodrigoo89/control-finanzas-streamlit).
 
 ## Stack
 
